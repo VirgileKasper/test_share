@@ -1,0 +1,467 @@
+---
+title: "Rapport Chauvin : résumé"
+author: "Virgile Korsec"
+image: "/Users/virgile/Documents/internat/SP/intersen/chauvin/chauvin/ouverture.png"
+date: "04/05/2022"
+output: 
+  revealjs::revealjs_presentation:
+    theme: "sky"
+    self_contained: false
+    reveal_plugins: ["menu"]
+    reveal_options:
+      menu:
+        numbers: true
+---
+
+# Qui ? Quoi ?
+
+## Qui ? Quoi ?
+
+![](/Users/virgile/Documents/internat/SP/intersen/chauvin/chauvin/ouverture.png){width="479"}
+
+- Equipe dirigée par le Pr Franck Chauvin 
+<!--Président du Haut conseil en santé publique, spécialiste de la prévention en cancérologie-->
+- Approche *One health*
+
+# Contexte {data-transition="./images/Sandwich.png"}
+
+## Contexte
+
+-   Conférence de Rio : pour une action mondiale sur les déterminants de santé
+
+![](/Users/virgile/Documents/internat/SP/intersen/chauvin/chauvin/Social Determinants of Health.jpg){width="479"}<!--2011-->
+
+
+-   France confrontée à ses problèmes :
+<!--et puis bien sûr le contexte covid qui va venir cristalliser ces problemes-->
+
+    - notamment en terme d'inégalités de santé <!--Ainsi, une surmortalité a été observée dans les territoires les plus pauvres comme en Seine-Saint-Denis (+ 118,4 %) ou les autres départements denses de la métropole du Grand Paris (+101,5 % dans les Hauts-de-Seine, +94,1 % dans le Val-de-Marne et +92,6 % à Paris). Le constat est le même dans d’autres territoires ou départements d’outre-mer-->  
+    - d'espérance de vie en **bonne santé**<!--car elle ne suit pas la courbe de l'augmentation de l'esperance de vie tout court, avec 1 français sur 2 en bonne santé à 65 as-->
+    - manque d'investissement en matière de prévention<!--<0.2% du PIB-->
+
+# Quatre principes
+
+## Quatre principes
+<!--ou éléments pour la refondation du système de SP, là c'est l'approche conceptuelle-->
+
+- Equité
+<!--plutot qu'égalité, pour cibler les déterminants de la santé qui sont par essence inégaux, avec un universalisme, qui se raccroche aux grands principes de fondation de notre système de santé, mais un universalisme proportionné-->
+
+- Soldarité 
+<!--là aussi ils rappellent la fondation par le conseil national de la resistance, mais ils évoquent surtout la question de la responsabilité individuelle face au risque collectif-->
+
+- Transparence
+<!--je cite "par la collecte et disponibilité rapide de données de qualité via des systèmes interopérables, avec lutte contre les fake news"-->
+
+- Efficience
+<!--efficience sur 2 types de mesures, les structurelles (environnementales, architecturales, urbaines...) et les comportementales (lutte contre les addictions, renforcement de l'estime de soi...) sans décliner le détail de ces mesures, mais en mettant en avant la prise en compte du rapport benefice risque des mesures grace aux évaluations d'impact sur la santé ou EIS-->
+
+# Dix chantiers
+
+## Dix chantiers
+
+1. Développer une **culture de la santé publique** en France : 
+
+- approche one health (vise à développer les collaborations interdisciplinaires entre la santé humaine, animale, et environnementale)
+- plan quinquennal incluant les écoles primaires
+
+2. Adapter le **système de gouvernance** et de financement de la santé publique aux enjeux :
+
+- vote d'une loi de programmation de santé quinquennale intégrant SNS et ONDAM
+- programme national de recherche en santé publique
+
+## Dix chantiers
+
+3. Faire évoluer les structures de santé publique en créant un **institut français de santé publique** (IFSP) pour <u>la formation</u>, <u>l'expertise</u> et <u>la recherche</u>, avec :
+
+- un pôle fonctionnel regroupant les agences nationales et les instances oeuvrant dans ces domaines
+- un pôle de modélisation, **l'institut public de la prospective et de la modélisation en santé**, en s'appuyant sur des IRSP <!--l'IFSP va donc piloter en s'appuyant sur les IRSP, c'est sensé permettre aux ARS et aux décideurs d'avoir une expertise indépendante-->
+
+## Dix chantiers
+
+4. Doter la France d'un **système de santé publique** adapté aux enjeux :
+
+- confier aux DG des ARS une fonction de délégué interministériel à la santé publique dans les régions et les départements <!--pour renforcer les directions territoriales des ARS-->
+- faire évoluer les conseils territoriaux de santé (CTS) en parlements territoriaux de la démocratie en santé
+- créer la conférence départementale des financeurs <!--Enfin, dans chaque département sera créée une conférence des financeurs des actions de santé publique, sur un modèle proche de la conférence des financeurs de la prévention de la perte d’autonomie-->
+
+## Dix chantiers
+
+5. Poursuivre l'investissement dans le **numérique en santé** pour :
+
+- renforcer les connaissances en santé
+- renforcer la pertinence des interventions
+- garantir la confidentialité des données <!--au sein du plan de relance 2030-->
+
+6. Renforcer la **qualification des professionnels de santé publique** <!--les métiers de santé publique sont mal connus, peu reconnus, et cloisonnés-->
+
+## Dix chantiers
+
+7. Création d'un statut unique pour :
+
+- les médecins scolaires
+- les médecins de PMI
+- les MISP
+- les PHISP
+- les médecins du travail <!--exerçant dans le secteur public-->
+- les praticiens hospitaliers en santé publique <!--ce serait un métier générique de santé publique, et ça c'est la première étape, la deuxième est la création d'une section universitaire de santé publique pour professions non médicales avec maître de conférence et professeurs, de façon à reconnaitre leurs compétences en santé publique et à développer un enseignement multidisciplinaire, comprenant la mention santé globale/santé mondiale qui est, par essence, extra hospitalière-->
+
+## Dix chantiers
+
+8. Renforcer le système d'expertise en santé publique et l'adapter aux situations de crise
+<!-- La mise en place des IRSP pour offrir une expertise au service de la décision et de la pratique de terrain en santé publique-->
+<!-- La mise en place d'un conseil scientifique susceptible d'apporter des expertises de façon régulière et en temps de crise, et organisé pour communiquer dans ces domaines afin de contribuer à la confiance des populations-->
+
+9. Renforcer le système de veille et de sécurité sanitaire :
+
+- Meilleure coordination des recherches en médecine globale, humaine et vétérinaire <!-- IFSP double logique de santé mondiale (global health) et one health-->
+- S'appuyer sur l'HERA <!--complétée par la mise en place, sous l'égide de l'ARS, d'un dispositif de santé publique territorial constitué de professionnels de santé formés et mobilisables en cas de crise, à échelle départementale infra territoriale, dans une logique contractuelle et sur la base du volontariat-->
+
+10. Inscrire la santé mondiale comme un objectif du système de santé publique français
+<!-- surtout avec la présidence française au conseil de l'union européenne, du 1er janvier au 30 Juin-->
+
+## 
+
+### HERA : préparation
+
+- Health Emergency preparedness and Response Authority, crée en 2021<!--donc c'est très recent, la France, en tant que membre du board, aura un rôle moteur a jouer--> pour but de :
+
+- Renforcer la coordination de la sacurité sanitaire dans l'UE pendant la préparation et la réponse de crise
+- Relever les vulnérabilités et les dépendances stratégiques liées au développement <!--la production et stock et de leur distribution-->
+- Contribuer à renforcer la préparation et la réponse aux urgences de santé globale
+
+- Se basant sur les agences de médecine européennes (EMA) et l'ECDC
+
+## 
+
+### HERA : cinq tâches
+
+- Mesure de la menace et collecte d'information pour détecter plus tot, et identifier des contre-mesures
+<!--menace donc biologique ou autre-->
+- Promouvoir la recherche et le développement (R&D) de contre-mesures efficientes et sûres
+- Relever les défis du marché et promouvoir une stratégie eurpéenne d'autonomie
+<!--c'est à dire assurer la disponibilité au sein de l'union des technologies de contre-mesure et de leur site de production, surtout en cas d'urgence-->
+- Assurer les stocks
+- Améliorer les connaissances et compétences des états membres en terme de préparation et de réponse
+
+# Quarante propositions
+
+## Quarante propositions
+
+```{r out.width='100%', echo = FALSE, warning = FALSE, fig.width = 11, fig.asp = 0.6}
+
+library(ggplot2)
+
+prop_par_chantier <- c("Développer une culture\nde la santé publique" = 2, "Adapter le système de\ngouvernance et de financement\nde la santé publique" = 5, "Faire évoluer les structures\nde santé publique" = 4, "Doter la France d'un sytème\nde santé publique territorial\nadapté aux enjeux" = 10, "Investissement dans\nle numérique en santé" = 3, "Renforcer la qualification des\nprofessionels de santé publique" = 4, "Développer une recherche\nen santé publique" = 3, "Renforcer le système d'expertise\nen santé publique" = 2, "Renforcer le système de\nveille sanitaire" = 4, "Inscrire la santé mondiale\ncomme un des objectifs\ndu système de santé publique" = 2)
+
+prop_par_chantier_n <- factor(names(prop_par_chantier), levels = names(prop_par_chantier))
+
+plot_prop <- ggplot() +
+  geom_bar(aes(x = prop_par_chantier_n, y = prop_par_chantier), stat = "identity", width = 0.5) +
+  theme_minimal() +
+  ggtitle("Nombre de propositions par grand chantier du rapport Chauvin") +
+  xlab("Grands chantiers") +
+  ylab("Nombre\nde propositions") +
+  theme(plot.title = element_text(hjust = 0.5, size = 15),
+        axis.text.x = element_text(angle = 45, vjust = 1.05, hjust = 1, size = 11),
+        axis.title.x = element_text(vjust = 4, size = 12.5),
+        axis.title.y = element_text(size = 12.5, angle = 45, vjust = 0.5, hjust = -0.5),
+        plot.margin = margin(t = 1,  
+                             r = 1,  
+                             b = 0.5,  
+                             l = 1.5,
+                             unit = "cm")) +
+  scale_y_continuous(breaks = seq(1,10,1))
+
+
+plot_prop
+
+```
+
+## Quarante propositions
+
+1.1. Mettre en oeuvre un plan quinquennal <!--national-->de développement de la littératie en santé
+
+- Jeune âge
+- Usagers
+- Parents d'élèves
+- ...<!--La participation des citoyens doit être favorisée, en privilégiant les processus ascendant (« bottom-up »)-->
+
+1.2. Développer une culture commune de santé publique pour les parties prenantes du système de santé publique <!--décideurs, experts, bénéficiares, population-->
+
+- Introduire une formation initiale et continue des personnes suscpetibles de prendre des décisions impactant le champ de la santé
+- Confier le développement de ces modules à l'EHESP
+
+## Quarante propositions
+
+2.1. Institutionnaliser et partager les objectifs de santé publique avec la représentation nationale
+<!--Faire voter par le parlement tous les 5 ans une loi de programation pluriannuelle de santé publique, avec SNS, avec SNS-->
+
+2.2. Systématiser l'introduction d'un volet santé dans les actions publiques = Rendre obligatoire les études d'impact concernant la santé des politiques publiques <!-- au même titre que les étues d'impact environnemental-->
+
+## Quarante propositions
+
+2.3. Créer une délégation ministérielle de la démocratie en santé associant démocratie participative et représentative
+
+- Dotée de moyens et ressources en assurant l'effectivité de son action
+- Y compris en ce qui concerne l'appui financier aux associations via des appels a projet (AAP)
+
+<!--qui sera donc sous la houlette du DGS-->
+2.4. Confier au Directeur général de la santé une fonction de délégué interministériel
+
+2.5. Doter les actions en santé publique d'un financement pérenne et évoluant favorablement, identifié au sein de l'ONDAM
+<!--donc faisant l'objet d'un vote-->
+
+## Quarante propositions
+
+3.1. Créer un institut français de santé publique : revoir l'organisation de la réponse aux urgences sanitaires à la lumière du RETour d'EXpérience de la crise et de l'arrivée de la réponse européenne (HERA)
+
+3.2. Créer un service public de modélisation et de prospective en santé
+<!--rattaché à l'IFSP-->
+
+## Quarante propositions
+
+3.3. Organiser le pilotage du programme de recherche en santé publique par l'IFSP
+<!--en partenariat avec l'Agence Nationale de la Recherche (ANR) pour dev la santé pub en amont-->
+
+3.4. Créer au sain de l'IFSP un conseil scientifique mobilisable en temps de crise
+<!--il y a bien un conseil scientifique à SPF, mais force est de constater qu'un conseil scientifique de crise a été formé pour la covid, avec des avis rapidement consultables sur vie-publique, donc deja dans une demarche donnant la part belle à la transparence-->
+
+3.4. Créer dans chaque région un Institut Régionale de la Santé Publique (IRSP) :
+<!--on pourrais croire qu'il y a recouvrement avec les CIRE, mais ces instituts seront dotés de pôles dont un qui comprend les CIRE, sur le papier ça va donc plus loin-->
+
+- Un pôle recherche-enseignement appelé "Ecole de santé publique"
+- Un pôle d'expertise regroupant des structures à financement public (ORS, CIRE, IREPS...)
+- Un pôle de tranfert de la recherche vers l'aide à la décision, et des décideurs vers les chercheurs<!--type Cerresp : centre d'expertise et de recherche regional en santé publique-->
+
+## Quarante propositions
+
+4.1. Créer un système de santé publique territorial simplifié disposant d'une force d'intervention sur le terrain, en associant l'ensemble des acteurs locaux, dont les collectivités territoriales
+
+- Mettre en oeuvre les PActes de Santé Territoriaux (PAST)
+- Structurer une force d'intervention territoriale par la mobilisation des acteurs du soin sur des objectifs d'amélioration de la santé des populations dans une **dynamique contractuelle** avec CPTS <!--sous l'égide de l'ARS ou sous la forme d'un service public en prévention et promotion-->
+
+## Quarante propositions
+
+4.2. Renforcer les dispositifs d'implication et de prise en compte des citoyens et des bénéficiaires :
+
+- Stratégie nationale de l'information en santé publique sous l'égide du service public d'information en santé
+- Orienter le positionnement des dispositifs d'information et de communication a destination des publics <!--donc dans une logique d'universalisme proportionné plutot qu'une information généraliste descendante, comme le préovoyaient les grands principes dans l'approche conceptuelle. 2 moyens pour cela, la représentation des usagers dans les instances décisionnelles, et leur participation au niveau de la construction des intervention, ou de leur évaluation-->
+
+4.3. Faire évoluer les Conseils Territoriaux de Santé (CTS) en Parlement Territoriaux de Santé
+<!--pour leur confier l'organisation du débat public a l'échelle du territoire-->
+
+4.4. Renforcer la dimension participative des interventions en santé
+<!--en généralisant l'usager traceur pour repérer les risques-->
+
+## Quarante propositions
+
+4.5. Faire évoluer les ARS aux niveaux régional et territorial : 
+<!--des points qui ne sont pas bcp plus détaillés que dans la description du chantier N°10-->
+
+- Donnes aux DG un statut de délégué interministériel
+- Créer une commission départementale des financeurs
+- Elaborer des dashboards a dsposition des aurotités et des citoyens avec les principaux indicateurs de santé
+
+4.6 Soutenir et pérenniser les dispositifs de promotion de la santé à destination des personnes vulnérables :
+
+- Identifier les populations fragilisées par leurs conditions socio-économiques, leur âge, ou leurs ATCD
+- Développer des dispositifs "d'aller-vers"
+<!--ce qui comprend lutter contre l'exclusion numerique-->
+
+## Quarante propositions
+
+4.7. Renforcer les dispositifs favorables à la santé des enfants :
+
+- Contractualisation Préfet/recteur/ARS et les collectivités territoriales
+<!--pour la santé mentale, physique et sociale des jeunes-->
+- Engagement, d'ici 2023 de l'ensemble des établissements scolaires dans le programme "Ecole promotrice de santé"
+<!--qui est donc un programme OMS-->
+
+## Quarante propositions
+
+4.8. Favoriser les approches collectives de promotion de la santé au travail :
+
+- Encourager la capitalisation des expériences des entreprises promotrices de santé
+- Renforcer la transversalité entre santé au travail et santé publique
+
+4.9. Accompagner l'avancée en âge des travailleurs :
+<!--en renforçant la place de la prévention-->
+
+4.10. Développer la recherchesur l'exposome
+<!--avec des échantillons asse grands pour détecter des signaux faibles-->
+
+## Quarante propositions
+
+5.1. Améliorer la collecte, la gestion et l'exploitation des données de santé :
+<!--un gros morceau-->
+
+- Favoriser et soutenir les entrepôts de données
+- Renforcer les exigences appliquées aux hébergeurs de données de santé
+<!--pour prévenir les cyber attaques-->
+- Faire évoluer le PMSI d'ici 5 ans 
+<!--donc d'ici 2025, pour ramener le délai de codage des causes de décès à moins de 2 ans d'ici 2025-->
+- Tester régulièrement le systèmes d'information par des crash-tests
+<!--sur le modèle du health data hub, pour assurer la souveraineté de a France-->
+
+5.2. Développer la modélisation, l'anticipation et la prospective en santé
+<!--par la création de l'IFSP et de son pôle de modélisation, don on a deja parlé mais qui revient comme un leitmotiv-->
+
+## Quarante propositions
+
+5.3. Développer le numérique comme outils d’intervention au plus : 
+
+- Capitaliser l’expérience de certains pays développant un système de santé publique s’appuyant sur des applications numériques
+- Actions de lutte contre les fractures numériques
+<!--dues à des carences d’équipement, à l’illectronisme ou à l’absence de couverture de réseau-->
+
+## Quarante propositions
+
+6.1. Anticiper les besoins en professionnels de santé publique et repenser les formations : 
+
+- Identifier l’ensemble des métiers de santé publique existants<!--donc réaliser une cartographie des lieux d'exercice de la santé publique-->
+- Mettre en place et développer ou renforcer à court terme des spécialisations pour certains métiers exerçant dans le champ de la santé publique<!--Spécialistes de traitement de données, Spécialistes en sciences sociales et santé publique, ingénieurs en santé publique, ingénieurs en environnement et santé, infirmiers en santé publique, patients experts en santé publique/communautaire-->
+- Recenser l’offre de formation <!--formation initiale et continue en santé publique, y compris la formation institutionnelle non-académique, pour la rendre visible et attractive (annuaire en ligne)-->
+- Assurer l’accessibilité à des formations « flash » en santé publique en fonction de besoins contextuels des opérateurs de terrain <!--actuellement, il n’existe pas de registre répertoriant les métiers de santé publique, ce qui est un frein à la prospective et à l’anticipation des besoins. Les formations en santé publique dispensée en dehors de l’Université (fonction publique, réseaux associatifs, etc.) sont peu connectées au monde académique-->
+
+## Quarante propositions
+
+6.2. Favoriser la formation interdisciplinaire : 
+
+- Élaborer un socle commun de formation en santé publique conformément aux référentiels internationaux (ASPHER et COMPHP)
+<!--Association of Schools of Public Health of the European Region de l'OMS, ASPHER is the key independent European organisation dedicated to strengthening the role of public health by improving education and training of public health--><!--Competencies and professional standards for health promotion capacity in Europe, c'est un manuel de compétences, Les Normes professionnelles CompHP sont conçues pour être utilisées par des praticiens dont l'activité première est la promotion de la santé-->
+- Former **systématiquement** les professionnels de santé publique à la veille et la sécurité sanitaire, à l’évaluation des impacts, à l’expertise sanitaire
+<!--il y aura donc des compétences obligatoires pour les professionnels de santé publique, ce qui est assez nouveau-->
+- Proposer des stages<!--dans des lieux d’exercice de la santé publique labellisés--> à tous les professionnels de santé publique en formation
+<!--médecins ou non-->
+- Mettre en place des passerelles vers des formations spécialisées en santé publique<!--pour assurer une remise à niveau a destination des professions médicales, paramédicales, et éducatives-->
+- Renforcer la VAE<!--validation des acquis de l'experience--> pour l’accès aux enseignements universitaires<!--notamment pour les patients experts-->
+
+## Quarante propositions
+
+6.3. Accroître l'attractivité des métiers en santé publique en leur donnant davantage de visibilité, en favorisant la mobilité et en les revalorisant par une reconnaissance publique : 
+
+- Créer un **statut unique** pour toutes les professions médicales de santé publique : <u>PH</u><!--de SP-->, <u>médecins scolaires</u>, <u>médecins de PMI</u>, <u>MISP</u>, <u>PHISP</u>, <u>médecins du travail</u>, <u>médecins conseils de l’assurance maladie</u><!--Les différences entre les status sont notamment responsables du manque d’attractivité de la médecine scolaire ou encore de l’exercice en PMI. En outre, la difficulté à se projeter dans des parcours professionnels qui rendent difficile une mobilité dans un autre secteur d’activité peut également contribuer au manque d’attractivité. Et puis ça doit pas etre réservé aux seuls professionnels de santé-->
+- Reconnaître des compétences autonomes en santé publique pour les infirmiers et développer une formation d’IPA mention santé publique
+- Instaurer des « contrats de santé publique » à temps partiel proposés aux professionnels de santé<!--à exercice libéral volontaires afin de favoriser la pratique médicale communautaire et de mobiliser des professionnels de santé en cas de crise sanitaire-->
+
+## Quarante propositions
+
+6.4. Développer une santé publique universitaire orientée sur la santé des populations : 
+
+- Créer une section universitaire en Santé Publique dédiée aux professions non médicales (MCF/Pr)<!--et comprenant notamment la mention santé globale/santé mondiale qui est par essence extrahospitalière. Deux professions de santé sont reconnues dans le champ de la santé publique par le conseil natio-nal des universités (CNU) sous la forme d’une section ou d’une sous-section : les professions médi-cales (section 46) et l’odontologie (section 56). Ainsi, la santé publique n’est pas reconnue comme une spécialité universitaire pour d’autres professions que ces 2 professions de santé.Parallèlement, les postes dits de bi-appartenant (cumulant une part universitaire et une part hos-pitalière) ne sont possibles qu’au sein des établissements de santé de type hospitalo-universitaires ou apparentés. Or la santé publique directement en lien avec la santé des populations ne se pra-tique pour l’essentiel qu’en dehors des établissements de santé. Ce statut particulier explique que les postes d’universitaires en santé publique ne soient positionnés principalement que sur 2 types d’activité : la gestion des données (information médicale) d’une part, la recherche clinique hospi-talière et les biostatistiques d’autre part. Il est probable que le retard pris par la France dans d’autres secteurs de la santé publique (prévention, recherche interventionnelle, recherche en im-plémentation etc …) s’explique en partie par ce statut reservé à des médecins (praticiens hospitaliers)-->
+- Créer des postes de professeurs des universités – praticiens de santé publique, bi-appartenant (de type HU) **avec une valence H extrahospitalière** par convention (ARS, collectivités, administrations, ONG, assurance-maladie, etc.)
+
+## Quarante propositions
+
+7.1. Élaborer, soutenir et financer un programme national de recherche en santé publique inscrit dans la loi de programmation de santé publique : 
+<!--Gouvernance propre, objectif de faire émerger une recherche d'excellence en SP à 20 ans, surtout dans les domaines one health et global health, et de conduire des programmes européens-->
+
+7.2. Développer les sciences participatives en santé
+<!--population et collectivités territoriales, associations de lutte contre les fake news-->
+
+7.3. Développer et organiser la recherche en santé publique dans chaque région :
+
+- Fédérer les acteurs de la recherche
+- Faciliter l’accompagnement des acteurs (ARS, aux collectivités ou aux associations)<!--dans la mise en oeuvre de leurs actions par la mise en place de guichets uniques(cf. supra?)-->
+
+## Quarante propositions
+
+8.1. Sensibiliser et former à l’expertise scientifique :
+
+- Formations spécifiques sur l’expertise scientifiques aux professionnels de santé publique, décideurs, élus, journalistes et représentants d’usagers
+- Etendre le principe de la DPI<!--déclaration publique d'intérêt--> à l’ensemble des experts, avec charte de l'expertise sanitaire
+
+8.2. Structurer, renforcer et simplifier l’expertise en santé publique et asseoir une légitimité institutionnelle des experts : 
+<!--La crise sanitaire a montré aussi une fragmentation de l’expertise en santé publique, éclatée entre plusieurs agences de santé, qu’elles aient développé leur expertise à travers leurs fonc-tions d’opérateurs de l’État ou qu’elles aient été dotées, en propre, de mission d’expertise à leur création. Cela suppose notamment le renforcement de l’apprentissage et la mise en oeuvre des méthodes d’élaboration de con-sensus, la méthode DELPHI notamment. " La méthode Delphi se compose d'une série d'interrogations itératives d'un groupe d'individus dont les avis ou les jugements sont d'intérêt. Après l'interrogation initiale de chaque individu, les retours sont ensuite synthétisés et renvoyés aux experts. C'est un processus itératif. L'expert est ainsi encouragé à reconsidérer et, si approprié, à changer sa réponse précédente à la lumière des réponses des autres membres du groupe " (IIASA - International Institute For Applied systems Analysis).
+
+Le coordinateur (facilitateur) envoie un premier questionnaire aux experts sélectionnés en expliquant le problème et son contexte.
+Chaque membre émet ses suggestions et les solutions de manière anonyme.
+Le coordinateur synthétise les réponses et idées de chaque membre, et intègre les idées et les solutions de chacun dans une liste qui leur est renvoyée.
+Chaque membre classe les idées et les solutions de la liste intégrée.
+Les étapes 3 et 4 sont répétées plusieurs fois jusqu'à ce qu'un consensus émerge et qu'on parvienne à une décision claire.-->
+
+- Conseil scientifique susceptible d'apporter des expertises<!--de façon régulière et en temps de crise--> et organisé pour communiquer<!--(Cf. supra IFSP)-->
+- Assurer la protection juridique des experts<!--uniquement ceux travaillant pour les pouvoirs publics-->
+
+## Quarante propositions
+
+9.1. Réorienter les missions de veille et de sécurité sanitaire dans une double logique de « Global Health » et « One Heath » : 
+
+- Mise en oeuvre d’une préparation et réponse européenne aux crises sanitaire (HERA)
+- Favoriser et institutionnaliser les échanges entre agences (SpF et l’ANSES) pour améliorer la veille et anticiper les décisions au sein de l’Institut Français de Santé Publique
+
+## Quarante propositions
+
+9.2. Développer et augmenter la pertinence du système de veille sanitaire et de réponse aux crises sanitaires : 
+
+- Élargir la réserve sanitaire à une réserve de professionnels ayant une formation et une expérience significative dans la gestion de crise
+- Mettre en place une « cellule de crise territoriale » en s'appuyant notamment sur les cellules de crise mises en place dans le cadre des CPTS
+- Impliquer systématiquement les associations de prévention et promotion de la santé régionales et territoriales dans l'élaboration et la mise en place des dispositifs de sécurité et de gestion de crise sanitaire<!--(définition des missions, attentes dans ce domaine, signalement, etc.)-->
+
+## Quarante propositions
+
+9.3. Inciter les citoyens à s’impliquer dans la veille et la sécurité sanitaire (VSS) : 
+
+- Implication attendue pour des faits, des situations susceptibles de mettre en danger la santé<!--ils precisent qu'il s'agit aussi d'éviter une derive vers la delation, et d'éviter une société trop normée ou controlate-->
+- Développement dès le plus jeune âge, dans le cadre d’une culture de santé publique, des éléments de base sur la protection de la santé<!--comme dans les pays vulnérables aux tremblements de terre ou ouragans… ou la formation aux réactions à des attaques terroristesn ça fait un peu echo à la Proposition 1 : plan national de littératie en santé)-->
+
+9.4. Impliquer davantage les professionnels de santé dans le fonctionnement des réseaux de veille : 
+
+- Référents « VSS en médecine de ville »<!--notamment au sein des CPTS ou des structures d’exercice coordonné-->
+- Inscrire un mandat de santé publique, veille et sécurité sanitaire des GHT
+
+## Quarante propositions
+
+10.1. Inscrire les priorités de santé publique en France et la SNS en cohérence avec les 17 objectifs de développement durable<!--du gvt--> : 
+
+- ODD3 <!--Garantir que l’Agenda 2030, en particulier l’ODD3 objectif de développement durable et ses indicateurs de suivi sont pris en compte dans toutes les recommandations de santé publique en France: les ODD constituent le cadre de référence adopté par les États membres des Nations Unies en 2015. L’Agenda 2030 ainsi élaboré insiste sur l’interconnexion entre les défis universels que sont la pauvreté, les inégalités, la dégradation de l’environnement et du climat. L’ODD3 est celui qui concerne plus directement les questions de santé en affichant la promotion du bien-être de tous à tout âge comme priorité pour permettre à tous de vivre en bonne santé.-->
+- Stratégie française en santé mondiale 2023-2027<!--idem SFSM 2023-2027, qui s'exprime dans le Plan National de Santé Publique « Plan Priorités Prévention »), Mis en place en 2018, le plan Priorité prévention est un projet interministériel d'envergure pour améliorer la santé de la population, il s'inscrit dans le cadre de la Stratégie nationale de santé-->
+
+10.2. Structurer et renforcer la dimension académique de la stratégie française en santé mondiale : 
+
+- Créer une mention santé mondiale/santé globale dans la section universitaire de santé publique<!--qui sera donc ouverte par le Collège National des Universités-->
+- Mobiliser les équipes universitaires françaises de santé publique pour participer au fonctionnement de l’Académie de l’OMS à Lyon
+
+##
+
+Les 17 objectifs de développement durables du gouvernement
+
+![](/Users/virgile/Documents/internat/SP/intersen/chauvin/chauvin/17a.png){width="450"} ![](/Users/virgile/Documents/internat/SP/intersen/chauvin/chauvin/17b.png){width="450"}
+
+# Conclusion
+
+## Conclusion
+
+- L’amélioration de la santé des populations, la réduction des maladies chroniques, la réduction des inégalités de santé, la préparation aux crises sanitaires constituent les priorités absolues pour l’avenir de notre système de santé
+- Ces objectifs seront atteints en dotant la France d’une santé publique organisée, efficiente et impliquant les populations et les collectivités territoriales
+- Les propositions présentes dans ce rapport permettent cette évolution qui doit être engagée sans délai et soutenue par une loi pluriannuelle et un programme de recherche en santé publique ambitieux
+
+## Conclusion
+
+### Cinq priorités exprimées :
+
+- Le plan d’amélioration du **niveau de littératie**<!--en santé-->
+- Le partage avec les citoyens de la politique de santé publique avec le vote d’une **loi pluriannuelle de programmation comprenant les objectifs de santé publique**, un programme de recherche et un financement sous forme d’un ONDAM
+- La création de **l’IFSP** et des IRSP
+- Le développement d’une **santé publique de territoire** simplifiée, organisée et efficace associant collectivités et populations autour d’une ARS renforcée
+- Le renforcement de **l’attractivité des métiers de la santé publique** <!--en santéen proposant des formations rénovées et multidisciplinaires prenant en compte les priorités-->
+
+## Conclusion
+
+### Cinq mesures novatrices et concrètes :
+
+- Systématiser l'introduction d’un « volet santé » dans les actions publiques : **rendre obligatoires les études d’impact concernant la santé** des politiques publiques nationales ou régionales au même titre que les études d’impact environnemental (2.2)
+- Créer un IFSP avec en son sein : 
+
+    - Un **service public de modélisation** et de prospective en santé (3.2)
+    - Un **conseil scientifique de crise** mobilisable (3.4)
+    - Un **IRSP** avec école de santé publique, financeurs et aides à la décision (3.5)
+
+## Conclusion
+
+### Cinq mesures novatrices et concrètes :
+    
+- Créer un **statut unique pour toutes les professions médicales** de santé publique (6.3)
+- Développer une **santé publique universitaire** dédiée aux professions non médicales et comprenant notamment la mention santé globale/santé mondiale<!--qui est par essence extrahospitalière--> (6.4)
+- Réorienter les missions de veille et de sécurité sanitaire dans une double logique de « Global Health » et « One Heath » : mise en oeuvre d’une préparation et réponse européenne aux crises sanitaire (HERA) (9.1)
